@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "com.example.chatapp-merged_res-47:/layout_activity_main.xml.flat",
+        "source": "com.example.chatapp-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\drawable_good_job_icon.png.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\drawable\\good_job_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\drawable_goodbye_icon.jpg.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\drawable\\goodbye_icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\layout_item_image_selection.xml.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\layout\\item_image_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\drawable_namaste_icon.jpg.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\drawable\\namaste_icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\drawable_male_icon.png.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\drawable\\male_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\drawable_angry_icon.jpg.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\drawable\\angry_icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\drawable_surprise_icon.jpg.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\drawable\\surprise_icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\drawable_ic_send.xml.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\drawable\\ic_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\drawable_female_icon.png.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\drawable\\female_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\layout_item_chat_message.xml.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\layout\\item_chat_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-merged_res-47:\\drawable_select_image.png.flat",
+        "source": "C:\\Users\\roshan gautam\\.gradle\\daemon\\8.2\\com.example.chatapp-main-49:\\drawable\\select_image.png"
+    }
+]
